@@ -1,0 +1,97 @@
+model,day,date,time,flight,_from,airline,aircraft,status
+CasablancaAPI.Arrivals,Sunday,2022-05-01,2:05 AM,3O438,Istanbul (SAW),Air Arabia ,A320 (CN-NMF) ,Landed 1:59 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,2:55 AM,3O486,Catania (CTA),Air Arabia ,A320 (CN-NML) ,Landed 3:49 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,5:20 AM,AT522,Bamako (BKO),Royal Air Maroc ,B738 (CN-RGI) ,Landed 4:43 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,5:25 AM,AT510,Nouakchott (NKC),Royal Air Maroc ,B738 (CN-RGG) ,Landed 5:52 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,5:35 AM,AT500,Dakar (DSS),Royal Air Maroc ,B789 (CN-RAM) ,Landed 5:29 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,5:45 AM,AT534,Abidjan (ABJ),Royal Air Maroc ,B738 (CN-ROL) ,Landed 5:41 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,5:45 AM,AT544,Ouagadougou (OUA),Royal Air Maroc ,B738 (CN-RNZ) ,Landed 5:46 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,5:50 AM,AT546,Niamey (NIM),Royal Air Maroc ,B738 (CN-ROY) ,Landed 5:59 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,5:50 AM,AT578,Banjul (BJL),Royal Air Maroc ,B738 (CN-ROE) ,Landed 5:16 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,5:55 AM,AT471,Tangier (TNG),Royal Air Maroc Express ,AT76 (CN-COI) ,Landed 5:42 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,6:00 AM,AT526,Conakry (CKY),Royal Air Maroc ,B738 (CN-ROC) ,Landed 6:03 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,6:28 AM,QY927,Dakar (DSS),DHL ,A306 (D-AEAH) ,Landed 6:31 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,7:25 AM,AT1401,Oujda (OUD),Royal Air Maroc Express ,AT76 (CN-COH) ,Landed 7:01 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,7:30 AM,AT1447,Errachidia (ERH),Royal Air Maroc ,E190 (CN-RGO) ,Landed 6:54 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,7:30 AM,AT201,New York (JFK),Royal Air Maroc ,B789 (CN-RGY) ,Landed 7:24 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:20 AM,AF1896,Paris (CDG),Air France (Skyteam Livery) ,A320 (F-HEPI) ,Landed 8:18 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:25 AM,AT1461,Ouarzazate (OZZ),Royal Air Maroc Express ,AT76 (CN-COJ) ,Landed 8:05 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:30 AM,AT514,Accra (ACC),Royal Air Maroc ,B738 (CN-ROK) ,Landed 8:22 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:30 AM,AT532,Abidjan (ABJ),Royal Air Maroc ,B738 (CN-RGF) ,Landed 7:58 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:40 AM,AT554,Lagos (LOS),Royal Air Maroc ,B738 (CN-RNP) ,Landed 8:41 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,9:05 AM,AT209,Montreal (YUL),Royal Air Maroc ,B788 (CN-RGC) ,Landed 9:30 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,9:35 AM,AT565,Monrovia (ROB),Royal Air Maroc ,73H ,Canceled 
+CasablancaAPI.Arrivals,Sunday,2022-05-01,9:35 AM,AT402,Marrakesh (RAK),Royal Air Maroc ,B738 (CN-ROU) ,Landed 9:14 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,9:35 AM,AT569,Monrovia (ROB),Royal Air Maroc ,B738 (CN-ROP) ,Landed 9:05 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,9:40 AM,AT430,Agadir (AGA),Royal Air Maroc ,B38M (CN-MAY) ,Landed 9:18 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,9:50 AM,TP1438,Lisbon (LIS),TAP Express ,E190 (CS-TPU) ,Landed 9:58 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,9:55 AM,AT1421,Dakhla (VIL),Royal Air Maroc ,B738 (CN-ROB) ,Landed 9:25 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,10:20 AM,AT777,Paris (ORY),Royal Air Maroc ,B738 (CN-ROZ) ,Landed 11:24 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,10:30 AM,AT262,Malabo (SSG),Royal Air Maroc ,B738 (CN-RGK) ,Landed 10:20 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,10:35 AM,AT273,Cairo (CAI),Royal Air Maroc ,B738 (CN-ROT) ,Landed 10:42 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,11:00 AM,AT229,Tel Aviv (TLV),Royal Air Maroc ,B738 (CN-RGN) ,Landed 11:35 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,11:10 AM,IB8792,Madrid (MAD),Iberia Regional ,CRJX (EC-MTZ) ,Landed 11:14 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,11:12 AM,SV377,Jeddah (JED),Saudia (Riyadh Season 2021 Livery) ,B789 (HZ-ARB) ,Landed 11:09 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,11:30 AM,MS847,Cairo (CAI),EgyptAir ,B738 (SU-GED) ,Landed 4:08 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,11:45 AM,AT408,Marrakesh (RAK),Royal Air Maroc Express ,AT76 (CN-COH) ,Landed 11:50 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,11:55 AM,3O458,Milan (BGY),Air Arabia ,A320 (CN-NMF) ,Landed 11:53 AM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,11:55 AM,EK751,Dubai (DXB),Emirates (Expo 2020 - Mobility Livery) ,B77W (A6-EPK) ,Landed 12:07 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,12:10 PM,3O342,Lyon (LYS),Air Arabia ,A320 (CN-NML) ,Landed 12:31 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,12:20 PM,QR1397,Doha (DOH),Qatar Airways ,B77W (A7-BAT) ,Landed 12:51 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,12:30 PM,AT989,Malaga (AGP),Royal Air Maroc ,E190 (CN-RGO) ,Landed 12:26 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,12:40 PM,AT1469,Zagora (OZG),Royal Air Maroc Express ,AT76 (CN-COG) ,Landed 12:04 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,12:50 PM,AT793,Bordeaux (BOD),Royal Air Maroc ,B738 (CN-RNU) ,Landed 12:39 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,12:55 PM,3O472,Venice (VCE),Air Arabia ,A320 (CN-NMN) ,Landed 1:00 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,12:55 PM,AT791,Toulouse (TLS),Royal Air Maroc ,E190 (CN-RGQ) ,Landed 12:43 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,1:30 PM,AT285,Bangui (BGF),Royal Air Maroc ,73H ,Unknown 
+CasablancaAPI.Arrivals,Sunday,2022-05-01,1:30 PM,AT719,Lyon (LYS),Royal Air Maroc ,B738 (CN-ROE) ,Landed 1:23 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,1:35 PM,AF1596,Paris (CDG),Air France ,A321 (F-GTAZ) ,Landed 1:28 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,1:40 PM,AT410,Marrakesh (RAK),Royal Air Maroc ,B738 (CN-ROC) ,Landed 1:06 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,1:40 PM,AT422,Agadir (AGA),Royal Air Maroc Express ,AT76 (CN-COJ) ,Landed 1:18 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,1:55 PM,AT965,Barcelona (BCN),Royal Air Maroc ,B738 (CN-RNZ) ,Landed 1:33 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,2:05 PM,TK617,Istanbul (IST),Turkish Airlines ,B77W (TC-JJL) ,Landed 2:26 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,2:20 PM,AT761,Paris (ORY),Royal Air Maroc ,B738 (CN-ROS) ,Landed 2:14 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,2:25 PM,AT977,Gran Canaria (LPA),Royal Air Maroc Express ,AT76 (CN-COI) ,Landed 2:10 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,3:10 PM,TO3068,Paris (ORY),Transavia ,B738 (F-HTVL) ,Landed 3:01 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,3:10 PM,TP1436,Lisbon (LIS),TAP Express ,E190 (CS-TPR) ,Landed 3:41 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,3:30 PM,IB8794,Madrid (MAD),Iberia Regional (Aviacion Sin Fronteras Livery) ,CRJX (EC-LJS) ,Landed 3:46 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,3:45 PM,AT255,Jeddah (JED),Royal Air Maroc ,B789 (CN-RGZ) ,Landed 5:04 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,4:25 PM,3O386,Malaga (AGP),Air Arabia ,A320 (CN-NMF) ,Landed 4:19 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,4:45 PM,3O336,Montpellier (MPL),Air Arabia ,A320 (CN-NMH) ,Landed 4:30 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,5:35 PM,SV373,Jeddah (JED),Saudia ,B789 (HZ-ARA) ,Landed 5:49 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,6:10 PM,3O374,Barcelona (BCN),Air Arabia ,A320 (CN-NML) ,Landed 6:11 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,6:30 PM,AT765,Paris (ORY),Royal Air Maroc ,B788 (CN-RGT) ,Landed 6:52 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,6:35 PM,AT803,London (LGW),Royal Air Maroc ,B738 (CN-RGF) ,Landed 6:29 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,6:45 PM,AT953,Bologna (BLQ),Royal Air Maroc ,B738 (CN-ROP) ,Landed 7:12 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,6:45 PM,AT931,Geneva (GVA),Royal Air Maroc ,B738 (CN-RGI) ,Landed 6:56 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,7:00 PM,AT951,Milan (MXP),Royal Air Maroc ,B738 (CN-ROT) ,Landed 7:15 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,7:05 PM,AT941,Rome (FCO),Royal Air Maroc ,B738 (CN-RNP) ,Landed 6:46 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,7:15 PM,AT985,Malaga (AGP),Royal Air Maroc ,B738 (CN-ROY) ,Landed 7:00 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,7:25 PM,AT851,Amsterdam (AMS),Royal Air Maroc ,B738 (CN-ROB) ,Landed 7:23 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,7:25 PM,AT971,Madrid (MAD),Royal Air Maroc ,B738 (CN-RGK) ,Landed 7:09 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,7:30 PM,AT811,Frankfurt (FRA),Royal Air Maroc ,B738 (CN-ROK) ,Landed 7:31 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,7:40 PM,AT969,Valencia (VLC),Royal Air Maroc Express ,AT76 (CN-COH) ,Landed 7:27 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,7:40 PM,L6114,Nouakchott (NKC),Mauritania Airlines ,E75L (5T-CLL) ,Landed 7:35 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,7:50 PM,AT789,Paris (CDG),Royal Air Maroc (Oneworld Livery) ,B788 (CN-RGB) ,Landed 7:21 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,7:50 PM,AT983,Lisbon (LIS),Royal Air Maroc Express ,AT76 (CN-COE) ,Landed 7:40 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,7:55 PM,AT1403,Oujda (OUD),Royal Air Maroc Express ,AT76 (CN-COI) ,Landed 7:43 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:00 PM,AF1496,Paris (CDG),Air France ,A320 (F-HEPJ) ,Landed 8:01 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:00 PM,AT833,Brussels (BRU),Royal Air Maroc ,B738 (CN-ROU) ,Landed 7:45 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:05 PM,AT573,Tunis (TUN),Royal Air Maroc ,B738 (CN-RGN) ,Landed 7:52 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:10 PM,AT911,Istanbul (IST),Royal Air Maroc ,B738 (CN-ROL) ,Landed 8:18 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:10 PM,AT961,Barcelona (BCN),Royal Air Maroc ,E190 (CN-RGO) ,Landed 8:20 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:20 PM,TK6451,Istanbul (ISL),Turkish Airlines ,31F ,Unknown 
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:25 PM,AT717,Nantes (NTE),Royal Air Maroc ,E190 (CN-RGQ) ,Landed 8:08 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:30 PM,3O798,Guelmim (GLN),Air Arabia ,A320 (CN-NMH) ,Landed 8:05 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:30 PM,AT721,Lyon (LYS),Royal Air Maroc ,B738 (CN-RNU) ,Landed 8:22 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:35 PM,AT714,Marseille (MRS),Royal Air Maroc ,B738 (CN-ROZ) ,Landed 9:00 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:35 PM,AT801,London (LHR),Royal Air Maroc ,B38M (CN-MAY) ,Landed 8:11 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:40 PM,AT1423,Dakhla (VIL),Royal Air Maroc ,B738 (CN-ROC) ,Landed 8:31 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,8:45 PM,3O545,Geneva (GVA),Air Arabia ,A320 (CN-NMN) ,Landed 8:38 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,9:10 PM,TB7502,Paris (ORY),TUI ,B738 (OO-JAA) ,Landed 8:35 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,9:15 PM,AT353,Brussels (BRU),Royal Air Maroc Cargo ,B763 (CN-ROW) ,Landed 8:49 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,9:20 PM,AT1437,Tetuan (TTU),Royal Air Maroc Express ,AT76 (CN-COJ) ,Landed 8:28 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,9:25 PM,AT1413,El Aaiun (EUN),Royal Air Maroc ,B738 (CN-RGM) ,Landed 9:49 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,10:05 PM,PC651,Istanbul (SAW),Pegasus ,A21N (TC-RBA) ,Landed 10:12 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,10:20 PM,AT751,Paris (ORY),Royal Air Maroc ,B738 (CN-ROE) ,Landed 9:57 PM
+CasablancaAPI.Arrivals,Sunday,2022-05-01,11:35 PM,LH1330,Frankfurt (FRA),Lufthansa ,A319 (D-AILM) ,Landed 11:37 PM

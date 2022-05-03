@@ -1,0 +1,56 @@
+model,day,date,time,flight,destination,airline,aircraft,status
+CasablancaAPI.Depatures,Sunday,2022-05-01,1:50 PM,QR1398,Doha (DOH),Qatar Airways ,B77W (A7-BAT) ,Departed 2:31 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,2:05 PM,AT716,Nantes (NTE),Royal Air Maroc ,E190 (CN-RGQ) ,Departed 2:02 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,2:10 PM,AT720,Lyon (LYS),Royal Air Maroc ,B738 (CN-RNU) ,Departed 2:15 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,2:15 PM,3O544,Geneva (GVA),Air Arabia ,A320 (CN-NMN) ,Departed 2:28 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,2:35 PM,AF1597,Paris (CDG),Air France ,A321 (F-GTAZ) ,Departed 3:05 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,2:35 PM,AT1436,Tetuan (TTU),Royal Air Maroc Express ,AT76 (CN-COJ) ,Departed 2:34 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,2:45 PM,AT970,Madrid (MAD),Royal Air Maroc ,B738 (CN-RGK) ,Departed 2:56 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,2:50 PM,AT200,New York (JFK),Royal Air Maroc ,B789 (CN-RGY) ,Departed 3:11 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,2:55 PM,AT960,Barcelona (BCN),Royal Air Maroc ,E190 (CN-RGO) ,Departed 3:08 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,3:00 PM,AT982,Lisbon (LIS),Royal Air Maroc Express ,AT76 (CN-COE) ,Departed 2:58 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,3:00 PM,,London (BQH),-,H25B (CN-TMB) ,Departed 3:02 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,3:05 PM,AT218,Washington (IAD),Royal Air Maroc ,B788 (CN-RGC) ,Departed 3:16 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,3:10 PM,AT425,Agadir (AGA),Royal Air Maroc ,B738 (CN-ROS) ,Departed 3:34 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,3:10 PM,AT1422,Dakhla (VIL),Royal Air Maroc ,B738 (CN-ROC) ,Departed 3:25 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,3:20 PM,AT750,Paris (ORY),Royal Air Maroc ,B738 (CN-ROE) ,Departed 3:20 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,3:30 PM,,London (BQH),-,H25B (CN-TMB) ,Canceled 
+CasablancaAPI.Depatures,Sunday,2022-05-01,3:30 PM,AT204,Miami (MIA),Royal Air Maroc ,B788 (CN-RGU) ,Departed 3:42 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,3:40 PM,AT1402,Oujda (OUD),Royal Air Maroc Express ,AT76 (CN-COI) ,Departed 3:53 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,3:45 PM,TK618,Istanbul (IST),Turkish Airlines ,B77W (TC-JJL) ,Departed 4:12 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,3:55 PM,AT984,Malaga (AGP),Royal Air Maroc ,B738 (CN-ROY) ,Departed 3:58 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,3:55 PM,TO3069,Paris (ORY),Transavia ,B738 (F-HTVL) ,Departed 4:01 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,3:55 PM,TP1443,Lisbon (LIS),TAP Express ,E190 (CS-TPR) ,Departed 4:32 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,4:00 PM,IB8795,Madrid (MAD),Iberia Regional (Aviacion Sin Fronteras Livery) ,CRJX (EC-LJS) ,Departed 4:36 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,5:15 PM,3O437,Istanbul (SAW),Air Arabia ,A320 (CN-NMF) ,Departed 5:21 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,5:15 PM,AT208,Montreal (YUL),Royal Air Maroc ,B789 (CN-RAM) ,Departed 5:32 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,5:15 PM,AT1412,El Aaiun (EUN),Royal Air Maroc ,B738 (CN-RGM) ,Departed 6:16 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,5:30 PM,AT776,Paris (ORY),Royal Air Maroc ,B738 (CN-RNZ) ,Departed 5:43 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,5:40 PM,3O797,Guelmim (GLN),Air Arabia ,A320 (CN-NMH) ,Departed 5:45 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,6:55 PM,3O465,Bologna (BLQ),Air Arabia ,A320 (CN-NML) ,Departed 7:17 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,7:10 PM,SV372,Jeddah (JED),Saudia ,B789 (HZ-ARA) ,Departed 7:47 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,8:30 PM,L6115,Nouakchott (NKC),Mauritania Airlines ,E75L (5T-CLL) ,Departed 8:50 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,9:20 PM,3O455,Milan (BGY),Air Arabia Maroc ,320,Unknown 
+CasablancaAPI.Depatures,Sunday,2022-05-01,9:20 PM,AT509,Yaounde (NSI),Royal Air Maroc ,B738 (CN-ROP) ,Departed 11:47 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,9:25 PM,AT1420,Dakhla (VIL),Royal Air Maroc ,B738 (CN-ROU) ,Departed 9:54 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,9:30 PM,AT523,Bamako (BKO),Royal Air Maroc ,73H ,Unknown 
+CasablancaAPI.Depatures,Sunday,2022-05-01,9:30 PM,AT527,Conakry (CKY),Royal Air Maroc ,B738 (CN-RNP) ,Departed 9:42 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,9:35 PM,3O485,Catania (CTA),Air Arabia Maroc ,320,Unknown 
+CasablancaAPI.Depatures,Sunday,2022-05-01,9:35 PM,AT591,Praia (RAI),Royal Air Maroc ,B738 (CN-ROL) ,Departed 10:01 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,9:40 PM,AT501,Dakar (DSS),Royal Air Maroc ,B789 (CN-RGZ) ,Departed 10:04 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,9:50 PM,TK6451,Milan (MXP),Turkish Airlines ,31F ,Unknown 
+CasablancaAPI.Depatures,Sunday,2022-05-01,9:50 PM,AT1400,Oujda (OUD),Royal Air Maroc ,B738 (CN-ROB) ,Departed 10:07 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,9:55 PM,AT431,Agadir (AGA),Royal Air Maroc ,B738 (CN-ROY) ,Departed 10:17 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,10:00 PM,AT267,Libreville (LBV),Royal Air Maroc ,B738 (CN-RGK) ,Departed 10:13 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,10:00 PM,AT1446,Errachidia (ERH),Royal Air Maroc ,E190 (CN-RGQ) ,Departed 9:59 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,10:05 PM,AT403,Marrakesh (RAK),Royal Air Maroc ,B738 (CN-RNU) ,Departed 10:15 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,10:05 PM,AT440,Fes (FEZ),Royal Air Maroc Express ,AT76 (CN-COG) ,Departed 10:19 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,10:15 PM,AT551,Lome (LFW),Royal Air Maroc ,B738 (CN-ROK) ,Departed 10:34 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,10:15 PM,AT470,Tangier (TNG),Royal Air Maroc Express ,AT76 (CN-COE) ,Departed 10:23 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,10:25 PM,AT272,Cairo (CAI),Royal Air Maroc ,B738 (CN-ROT) ,Departed 10:32 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,10:40 PM,AT555,Lagos (LOS),Royal Air Maroc ,B738 (CN-ROZ) ,Departed 10:44 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,10:45 PM,AT511,Nouakchott (NKC),Royal Air Maroc ,B738 (CN-ROC) ,Departed 10:53 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,10:45 PM,AT533,Abidjan (ABJ),Royal Air Maroc ,B738 (CN-RGN) ,Departed 10:37 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,10:50 PM,AT228,Tel Aviv (TLV),Royal Air Maroc ,B738 (CN-RGF) ,Departed 11:10 PM
+CasablancaAPI.Depatures,Sunday,2022-05-01,11:05 PM,PC652,Istanbul (SAW),Pegasus ,A21N (TC-RBA) ,Departed 11:43 PM
+,,,,,,,,

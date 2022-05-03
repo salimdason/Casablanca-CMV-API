@@ -1,0 +1,4 @@
+# PowerShell commands to convert CSV files into json files.
+
+$var = import-csv <.\filename.csv> | ConvertTo-Json
+$var | Add-Content -Path <"output.json">
